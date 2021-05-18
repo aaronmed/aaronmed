@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on 
+* https://github.com/tcrurav/bluecity
+
+🌱 I’m currently learning
+* JS, TS
+* Laravel
+* Java
+
+📫 How to reach me:
+* Email: aaronmedmel@gmail.com
+

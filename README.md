@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 I'm currently studying
+* Cross-platform application development
 
 🔭 I’m currently working on 
 * https://github.com/tcrurav/bluecity
 
 🌱 I’m currently learning
-* JS, TS
+* JS, TS, React
 * Laravel
-* Java
+* Java, Spring
 
 📫 How to reach me:
 * Email: aaronmedmel@gmail.com

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 I'm currently studying
+📚 I have just finished
 * Cross-platform application development
 
 🔭 I’m currently working on 

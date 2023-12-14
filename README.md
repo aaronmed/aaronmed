@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 📚 I have just finished
 * Cross-platform application development
 
-🌱 I’m currently learning
-* JS, TS, React
-* Laravel
-* Java, Spring
+🌱 I’m currently studying a specialization course in Big Data and Artificial Intelligence
+
+🔭 I’m currently working on DESIC
+* Working with Vue, Spring, Grails, Java
 
 📫 How to reach me:
 * Email: aaronmedmel@gmail.com
